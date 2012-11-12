@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <font>
+    <name>ＭＳ ゴシック</name>
+    <size>72</size>
+  </font>
+  <size>
+    <Width>284</Width>
+    <Height>130</Height>
+  </size>
+</settings>
